@@ -11,12 +11,9 @@ public class main {
 ```
 
 1. Introduccion
-   1.1 Mi nombre
-   1.2 Mi edad
-2. Proyecto
-3. Conclusion
-   3.1 Hypothesis
-4. Bibliographia
+3. Proyecto
+4. Conclusion
+5. Bibliographia
 
 * Leche
 * Carne
