@@ -11,7 +11,9 @@ public class main {
 ```
 
 1. Introduccion
-   1.1 Mi nombre
+   1.1 Mi nombre| Column 1 | Column 2 | Column 3 |
+|:-------:|:-------:|--------|
+| Centered | Centered | Left |
    1.2 Mi edad
 2. Proyecto
 3. Conclusion
@@ -24,4 +26,9 @@ public class main {
 * Galleta
 
   [Mi Enlace externa](https://es.wikipedia.org/wiki/Hueso_de_Lebombo)
-  [Otro Markdown]()
+  [Otro Markdown](https://github.com/ElarOttaf/GitPruebas/blob/master/README.md)
+  ![Yordi](https://images.bndestem.nl/ZTgyNzdhYjRiYjQ4NThjNWEyMjEvZGlvLzI2NDIyNTE1MS9maXQtd2lkdGgvMTIwMA/yordi-van-der-swaluw-op-de-plek-waar-het-allemaal-begon-van-coothplein)
+
+  | Column 1 | Column 2 | Column 3 |
+  |-------:|:-------:|--------|
+  | Right | Centered | Left |
