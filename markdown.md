@@ -25,10 +25,11 @@ public class main {
 * Queso
 * Galleta
 
-  [Mi Enlace externa](https://es.wikipedia.org/wiki/Hueso_de_Lebombo)
+  [Mi Enlace externa](https://es.wikipedia.org/wiki/Hueso_de_Lebombo)  
+  
   [Otro Markdown](https://github.com/ElarOttaf/GitPruebas/blob/master/README.md)
   ![Yordi](https://images.bndestem.nl/ZTgyNzdhYjRiYjQ4NThjNWEyMjEvZGlvLzI2NDIyNTE1MS9maXQtd2lkdGgvMTIwMA/yordi-van-der-swaluw-op-de-plek-waar-het-allemaal-begon-van-coothplein)
 
-  | Column 1 | Column 2 | Column 3 |
+  | Columna 1 | Columna 2 | Columna 3 |
   |-------:|:-------:|--------|
-  | Right | Centered | Left |
+  | Derecha | Centro | Izquerderido |
